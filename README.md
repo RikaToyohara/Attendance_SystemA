@@ -1,5 +1,7 @@
 # README
 
+勤怠Aシステムを開発しよう！
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
